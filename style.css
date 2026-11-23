@@ -3,15 +3,15 @@ body {
   color: #38271d;
   font-family: Georgia, 'Times New Roman', Times, serif;
   margin: 20px;
+  text-align: center;
 }
 
 h2 {
   background-color: #653b25;
-  color:#f5c36b;
+  color: #f5c36b;
   text-align: center;
   padding: 15px;
   border-radius: 8px;
-  text-align: center;
 }
 
 h3 {
@@ -34,9 +34,13 @@ h4 {
   width: 50%;
 }
 
+.Images {
+  size: 15px;
+}
+
 h1 {
   color: #38271d;
-  text-size-adjust: calc(15);
+  font-size: 36px;
 }
 
 
@@ -63,7 +67,7 @@ table {
 td, th {
   padding: 15px;
   border: 1px solid #d6b995;
-  text-align: left;
+  text-align: center;
 }
 
 th {
@@ -76,8 +80,9 @@ th {
   color: white;
  text-align: center;
  padding: 20px;
- border-top: 5px solid #d68b25;
+ border-top: 5px solid black;
 }
+
 
 .footer h2 {
   color: #f5c36b;
